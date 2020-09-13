@@ -2,7 +2,7 @@
 Sito ufficiale dei DMI Insider.
 
 # Sviluppo
-Il sito web è stato costruito con [Hugo](https://gohugo.io/), un framework per la costruzioni di siti web mediante la stesura di file markdown.
+Il sito web è stato costruito con [Hugo](https://gohugo.io/), un framework per la costruzione di siti web mediante la stesura di file markdown.
 
 Prima di tutto clona il progetto:
 ```
