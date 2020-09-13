@@ -1,0 +1,88 @@
+# default configuration
+baseURL = "http://examplesite.com"
+languageCode = "it"
+summaryLength = "10"
+theme = "kross-hugo"
+title = "DMI Insider"
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+
+# menu
+[[menu.main]]
+URL = "about"
+name = "Chi siamo"
+weight = 1
+
+[[menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 2
+
+[[menu.main]]
+URL = "projects"
+name = "Progetti"
+weight = 3
+
+[[menu.main]]
+URL = "contact"
+name = "Contatti"
+weight = 4
+
+
+# default parameters
+[params]
+home = "Home"
+logo = ""
+# theme color
+theme_color = "#41228e"
+# contact info
+phone = "+880 2544 658 256"
+email = "email@domain.it"
+address = "125/A, CA Commercial Area, California, USA"
+# meta description
+author = "Johnathan Smith"
+description = "This is meta description"
+# google analytics
+google_analytics_id = "" # Your ID
+# copyright
+copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+
+# contact
+[params.contact]
+enable = true
+form_action = "#" # contact form works with : https://formspree.io
+
+# social site
+[[params.social]]
+icon = "ti-facebook"
+URL = "https://www.facebook.com/dmiinsider"
+
+[[params.social]]
+icon = "ti-instagram"
+URL = "https://www.instagram.com/dmiinsider/"
