@@ -73,11 +73,6 @@ copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothe
 enable = true
 preloader = "images/preloader.gif" # use png, jpg, svg or gif format
 
-# contact
-[params.contact]
-enable = true
-form_action = "#" # contact form works with : https://formspree.io
-
 # social site
 [[params.social]]
 icon = "ti-facebook"

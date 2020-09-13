@@ -5,7 +5,7 @@ banner:
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Siamo un gruppo di studenti del Dipartimento di Matematica e Informatica dell'Università degli Studi di Catania. Da anni ci impegnamo per migliorare la vita all'interno del nostro dipartimento attraverso l'organizzazione di eventi, progetti e soprattutto rappresentanza."
   button:
     enable : true
     label : "Voglio saperne di più"
