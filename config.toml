@@ -1,5 +1,4 @@
 # default configuration
-baseURL = "DMI-Insider-Website"
 languageCode = "it"
 summaryLength = "10"
 theme = "kross-hugo"
@@ -7,24 +6,22 @@ title = "DMI Insider"
 
 # css plugins
 [[params.plugins.css]]
-link = "plugins/bootstrap/bootstrap.min.css"
+link = "/plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
-link = "plugins/slick/slick.css"
+link = "/plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "plugins/themify-icons/themify-icons.css"
+link = "/plugins/themify-icons/themify-icons.css"
 
 
 # js plugin
 [[params.plugins.js]]
-link = "plugins/jQuery/jquery.min.js"
+link = "/plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
-link = "plugins/bootstrap/bootstrap.min.js"
+link = "/plugins/bootstrap/bootstrap.min.js"
 [[params.plugins.js]]
-link = "plugins/slick/slick.min.js"
+link = "/plugins/slick/slick.min.js"
 [[params.plugins.js]]
-link = "plugins/shuffle/shuffle.min.js"
-[[params.plugins.js]]
-link = "plugins/google-map/map.js"
+link = "/plugins/shuffle/shuffle.min.js"
 
 
 # menu
