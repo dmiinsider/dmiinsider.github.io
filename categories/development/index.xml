@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on DMI Insider</title>
-    <link>/categories/development/</link>
+    <link>https://herbrant.github.io/DMI-Insider-Website/categories/development/</link>
     <description>Recent content in development on DMI Insider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="https://herbrant.github.io/DMI-Insider-Website/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artwork Design</title>
-      <link>/portfolio/project-1/</link>
+      <link>https://herbrant.github.io/DMI-Insider-Website/portfolio/project-1/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/portfolio/project-1/</guid>
+      <guid>https://herbrant.github.io/DMI-Insider-Website/portfolio/project-1/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>/portfolio/project-5/</link>
+      <link>https://herbrant.github.io/DMI-Insider-Website/portfolio/project-5/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/portfolio/project-5/</guid>
+      <guid>https://herbrant.github.io/DMI-Insider-Website/portfolio/project-5/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>/portfolio/project-8/</link>
+      <link>https://herbrant.github.io/DMI-Insider-Website/portfolio/project-8/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/portfolio/project-8/</guid>
+      <guid>https://herbrant.github.io/DMI-Insider-Website/portfolio/project-8/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
