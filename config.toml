@@ -1,5 +1,4 @@
 # default configuration
-baseURL = "http://examplesite.com"
 languageCode = "it"
 summaryLength = "10"
 theme = "kross-hugo"
