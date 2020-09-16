@@ -1,7 +1,7 @@
 ---
 title: "Chi siamo"
 description: "This is meta description."
-author_image : "images/about/logo.svg"
+author_image : "images/logo.svg"
 draft: false
 ---
 
