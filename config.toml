@@ -53,6 +53,8 @@ weight = 4
 [params]
 home = "Home"
 logo = ""
+# theme color
+theme_color = "#399ff3"
 # copyright
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 
