@@ -1,4 +1,5 @@
 # default configuration
+baseUrl = "./"
 languageCode = "it"
 summaryLength = "10"
 theme = "kross-hugo"
