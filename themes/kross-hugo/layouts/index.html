@@ -181,18 +181,18 @@
   {{ end }}
 
 
-  {{ if site.Data.homepage.portfolio.enable }}
-  <!-- portfolio -->
+  {{ if site.Data.homepage.projects.enable }}
+  <!-- projects -->
   <section class="section">
     <div class="container">
       <div class="row">
         <div class="col-12 text-center">
-          <h2 class="section-title">{{ site.Data.homepage.portfolio.title | markdownify }}</h2>
+          <h2 class="section-title">{{ site.Data.homepage.projects.title | markdownify }}</h2>
         </div>
       </div>
       <div class="row shuffle-wrapper">
-        {{ $item:= site.Data.homepage.portfolio.item_show }}
-        {{ range first $item (where .Site.RegularPages "Section" "portfolio") }}
+        {{ $item:= site.Data.homepage.projects.item_show }}
+        {{ range first $item (where .Site.RegularPages "Section" "projects") }}
         <div class="col-lg-4 col-6 mb-4 shuffle-item">
           <div class="position-relative rounded hover-wrapper">
             <img src="{{.Params.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
@@ -207,7 +207,7 @@
       </div>
     </div>
   </section>
-  <!-- /portfolio -->
+  <!-- /projects -->
   {{ end }}
 
 

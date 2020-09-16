@@ -72,7 +72,7 @@ service:
       highlighted : false
 
 # portfolio
-portfolio:
+projects:
   enable : true
   title : "Progetti"
   item_show : 5
