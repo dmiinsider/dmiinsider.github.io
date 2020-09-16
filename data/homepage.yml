@@ -11,27 +11,6 @@ about:
     label : "Voglio saperne di più"
     URL : "about"
 
-# skill
-skill:
-  enable : true
-  title : "Skills"
-  item:
-    - title : "Web Design"
-      progress : "90%"
-      color : "#fdb157"
-      
-    - title : "Logo Design"
-      progress : "60%"
-      color : "#9473e6"
-      
-    - title : "After Effects"
-      progress : "80%"
-      color : "#bdecf6"
-      
-    - title : "Web App"
-      progress : "70%"
-      color : "#ffbcaa"
-
 # experience
 experience:
   enable : true
@@ -55,11 +34,10 @@ experience:
 # education
 education:
   enable : true
-  title : "Education"
+  title : "La nostra storia"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "Fondazione DMI Insider"
+      year : "2016"
       
     - title : "Honours in Fine Arts"
       year : "2004"

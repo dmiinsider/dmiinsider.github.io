@@ -53,17 +53,6 @@ weight = 4
 [params]
 home = "Home"
 logo = ""
-# theme color
-theme_color = "#41228e"
-# contact info
-phone = "+880 2544 658 256"
-email = "email@domain.it"
-address = "125/A, CA Commercial Area, California, USA"
-# meta description
-author = "Johnathan Smith"
-description = "This is meta description"
-# google analytics
-google_analytics_id = "" # Your ID
 # copyright
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 
