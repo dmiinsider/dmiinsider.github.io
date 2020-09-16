@@ -1,6 +1,6 @@
 {{ if site.Params.contact.enable }}
 <!-- contact -->
-<section class="section section-on-footer" data-background="{{`images/backgrounds/bg-dots.png` | absURL}}">
+<section class="section section-on-footer" data-background="{{`/images/backgrounds/bg-dots.png` | absURL}}">
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
@@ -51,5 +51,5 @@
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}
-{{ $script := resources.Get "js/script.js" | minify}}
+{{ $script := resources.Get "/js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
