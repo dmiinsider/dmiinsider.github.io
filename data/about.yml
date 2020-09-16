@@ -4,13 +4,13 @@ team:
   title : "Il Team"
   team_member:
     - title : "Lorenzo Catania"
-      image : "/images/team/member-1.png"
+      image : "images/team/member-1.png"
       designation : "Project Manager"
       
     - title : "Pierpaolo Pecoraio"
-      image : "/images/team/member-2.png"
+      image : "images/team/member-2.png"
       designation : "Web Developer"
       
     - title : "Davide Carnemolla"
-      image : "/images/team/member-3.png"
+      image : "images/team/member-3.png"
       designation : "Designer"
