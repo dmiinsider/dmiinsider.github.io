@@ -5,12 +5,20 @@ team:
   team_member:
     - title : "Lorenzo Catania"
       image : "images/team/member-1.png"
-      designation : "Project Manager"
+      designation : "Rappresentante Dipartimento di Matematica e Informatica"
       
     - title : "Pierpaolo Pecoraio"
       image : "images/team/member-2.png"
-      designation : "Web Developer"
+      designation : "Rappresentante Dipartimento di Matematica e Informatica"
       
     - title : "Davide Carnemolla"
-      image : "images/team/member-3.png"
-      designation : "Designer"
+      image : "images/team/davide-carnemolla.png"
+      designation : "Rappresentante Commissione Paritetica"
+    
+    - title : "Luisa Polignano"
+      image : "images/team/luisa-polignano.png"
+      designation : "Rappresentante Dipartimento di Matematica e Informatica"
+    
+    - title : "Valentina Catania"
+      image : "images/team/valentina-catania.png"
+      designation : "Rappresentante Dipartimento di Matematica e Informatica"
