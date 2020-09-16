@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contatti on DMI Insider</title>
-    <link>DMI-Insider-Website/contact/</link>
+    <link>/contact/</link>
     <description>Recent content in Contatti on DMI Insider</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="DMI-Insider-Website/contact/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
