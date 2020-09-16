@@ -27,10 +27,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: herbrant/herbrant.github.io
           publish_dir: ./public
-          #   keep_files: true
-          user_name: herbrant
-          user_email: cdavide98carnemolla@gmail.com
-          publish_branch: master
-        #   cname: example.com
