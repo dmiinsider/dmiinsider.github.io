@@ -3,17 +3,29 @@ team:
   enable: true
   title : "Il Team"
   team_member:
+    - title : "Stefano Borzì"
+      image : "images/team/stefano-borzi.png"
+      #designation : "Rappresentante Dipartimento di Matematica e Informatica"
+
     - title : "Lorenzo Catania"
       image : "images/team/member-1.png"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
       
     - title : "Pierpaolo Pecoraio"
-      image : "images/team/member-2.png"
+      image : "images/team/pierpaolo-pecoraio.png"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
       
     - title : "Davide Carnemolla"
       image : "images/team/davide-carnemolla.png"
       designation : "Rappresentante Commissione Paritetica"
+    
+    - title : "Alessio Piazza"
+      image : "images/team/alessio-piazza.png"
+      designation : "Rappresentante Rappresentante Dipartimento di Matematica e Informatica"
+
+    - title : "Silvestro Zitelli"
+      image : "images/team/member-1.png"
+      designation : "Rappresentante Rappresentante Dipartimento di Matematica e Informatica"
     
     - title : "Luisa Polignano"
       image : "images/team/luisa-polignano.png"
