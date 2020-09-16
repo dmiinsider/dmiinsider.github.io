@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chi siamo on DMI Insider</title>
-    <link>/about/</link>
+    <link>DMI-Insider-Website/about/</link>
     <description>Recent content in Chi siamo on DMI Insider</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>it</language><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>it</language><atom:link href="DMI-Insider-Website/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

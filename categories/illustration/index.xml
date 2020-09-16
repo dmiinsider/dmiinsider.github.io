@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>illustration on DMI Insider</title>
-    <link>/categories/illustration/</link>
+    <link>DMI-Insider-Website/categories/illustration/</link>
     <description>Recent content in illustration on DMI Insider</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
-    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="/categories/illustration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 May 2019 12:14:34 +0600</lastBuildDate><atom:link href="DMI-Insider-Website/categories/illustration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artwork Design</title>
-      <link>/portfolio/project-3/</link>
+      <link>DMI-Insider-Website/portfolio/project-3/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/portfolio/project-3/</guid>
+      <guid>DMI-Insider-Website/portfolio/project-3/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>/portfolio/project-5/</link>
+      <link>DMI-Insider-Website/portfolio/project-5/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/portfolio/project-5/</guid>
+      <guid>DMI-Insider-Website/portfolio/project-5/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>/portfolio/project-8/</link>
+      <link>DMI-Insider-Website/portfolio/project-8/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>/portfolio/project-8/</guid>
+      <guid>DMI-Insider-Website/portfolio/project-8/</guid>
       <description>Project Requirements Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
     </item>
     
