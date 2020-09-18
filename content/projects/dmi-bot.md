@@ -1,10 +1,10 @@
 ---
-title: "ERSU News"
+title: "DMI Bot"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-5.png"
+image: "images/projects/item-1.png"
 client: "John Doe"
-project_url : "https://themefisher.com/"
-categories: ["ERSU"]
+project_url : "https://telegram.me/DMI_Bot"
+categories: ["DMI"]
 description: "This is meta description."
 draft: false
 ---
