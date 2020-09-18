@@ -3,10 +3,6 @@ team:
   enable: true
   title : "Il Team"
   team_member:
-    - title : "Stefano Borzì"
-      image : "images/team/stefano-borzi.png"
-      #designation : "Rappresentante Dipartimento di Matematica e Informatica"
-
     - title : "Lorenzo Catania"
       image : "images/team/lorenzo-catania.png"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
@@ -34,3 +30,12 @@ team:
     - title : "Valentina Catania"
       image : "images/team/valentina-catania.png"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
+
+onorari:
+  enable: true
+  title: "Membri onorari"
+  team_member:
+    - title : "Stefano Borzì"
+      image : "images/team/stefano-borzi.png"
+      #designation : "Rappresentante Dipartimento di Matematica e Informatica"
+    

@@ -37,29 +37,6 @@
 </section>
 <!-- /about -->
 
-<!-- Work Process -->
-{{ if site.Data.about.work_process.enable }}
-{{ with site.Data.about.work_process }}
-<section class="section">
-  <div class="container">
-    <div class="row justify-content-around">
-      <div class="col-lg-12 text-center">
-        <h2 class="section-title">{{ .title | markdownify }}</h2>
-      </div>
-      {{ range .item }}
-      <div class="col-lg-3 col-md-4 text-center hover-shadow pt-3">
-        <img src="{{ .icon | absURL }}" class="mb-4" alt="icon">
-        <h4 class="mb-4">{{ .title }}</h4>
-        <p>{{ .content | markdownify }}</p>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }}
-<!-- ./Work Process -->
-
 <!-- team -->
 {{ if site.Data.about.team.enable }}
 {{ with site.Data.about.team }}
@@ -86,6 +63,33 @@
 {{ end }}
 {{ end }}
 <!-- /team -->
+
+<!-- onorari -->
+{{ if site.Data.about.onorari.enable }}
+{{ with site.Data.about.onorari }}
+<section class="section bg-cover" data-background="{{`images/backgrounds/team-bg.png`|relURL}}">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
+      </div>
+      {{ range .team_member }}
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ .image | absURL }}" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">{{.title }}</h4>
+            <p class="text-light font-secondary">{{.designation }}</p>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /onorari -->
 
 {{ if site.Data.about.clients_logo_slider.enable }}
 <section class="section">
