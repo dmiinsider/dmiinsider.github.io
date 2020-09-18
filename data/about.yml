@@ -8,11 +8,7 @@ team:
       #designation : "Rappresentante Dipartimento di Matematica e Informatica"
 
     - title : "Lorenzo Catania"
-      image : "images/team/member-1.png"
-      designation : "Rappresentante Dipartimento di Matematica e Informatica"
-      
-    - title : "Pierpaolo Pecoraio"
-      image : "images/team/pierpaolo-pecoraio.png"
+      image : "images/team/lorenzo-catania.png"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
       
     - title : "Davide Carnemolla"
