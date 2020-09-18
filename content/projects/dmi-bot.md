@@ -1,7 +1,7 @@
 ---
 title: "DMI Bot"
 date: 2019-05-12T12:14:34+06:00
-image: "images/projects/item-1.png"
+image: "images/projects/dmi-bot.png"
 client: "John Doe"
 project_url : "https://telegram.me/DMI_Bot"
 categories: ["DMI"]
