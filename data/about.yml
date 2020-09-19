@@ -31,6 +31,9 @@ team:
       image : "images/team/valentina-catania.png"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
 
+    - title : "Lemuel Puglisi"
+      image : "images/team/lemuel-puglisi.png"
+
 onorari:
   enable: true
   title: "Membri onorari"
