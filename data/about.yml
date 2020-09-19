@@ -35,8 +35,10 @@ onorari:
   enable: true
   title: "Membri onorari"
   team_member:
-    - title : "Stefano Borzì"
-      image : "images/team/stefano-borzi.png"
+    - title : "Vinzenzo Aliperti"
+      image : "images/team/vincenzo-aliperti.png"
     - title : "Marco Apa"
       image : "images/team/marco-apa.png"
+    - title : "Stefano Borzì"
+      image : "images/team/stefano-borzi.png"
     
