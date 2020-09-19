@@ -18,3 +18,4 @@ Troverai il sito web su http://localhost:1313
 
 # Credits
 - [Davide Carnemolla](https://github.com/Herbrant/)
+- [Stefano Borzì](https://github.com/Helias)
