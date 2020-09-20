@@ -8,10 +8,10 @@ Prima di tutto clona il progetto:
 ```
 git clone https://github.com/Herbrant/DMI-Insider-Website.git
 ```
-Per lanciare il server di Hugo:
+Per lanciare il server di Hugo utilizzando Docker:
 ```
-cd DMI-Insider-Website
-hugo server -D
+$ cd DMI-Insider-Website
+$ ./docker-run.sh
 ```
 
 Troverai il sito web su http://localhost:1313
