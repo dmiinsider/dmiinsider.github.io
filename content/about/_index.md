@@ -1,12 +1,17 @@
 ---
 title: "Chi siamo"
-description: "This is meta description."
+description: "Chi sono i DMI Insider."
 author_image : "images/logo.svg"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+I DMI Insider nascono nell'anno 2016, durante le elezioni del biennio 2016/2018 dall'assenza di rappresentanti all'interno del Dipartimento di Matematica e Informatica.
+A causa del non raggiungimento del QUORUM durante le elezioni del biennio 2014/2016 il DMI non ha avuto alcun rappresentante, è stata proprio questa mancanza che spinse un gruppo di studenti in Informatica a candidarsi per ricoprire la figura del rappresentante.
+Ideammo il nome "DMI Insider" poichè il nostro obiettivo principale era quello di svolgere attività all'interno del DMI ignorando, almeno inizialmente, le realtà esterne e gli organi superiori.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
+Quindi, il nostro obiettivo è stato quello di essere un intermediario tra gli studenti ed i professori migliorando l'accessibilità ed il flusso di informazioni facendo sempre presente le problematiche espresse dagli studenti ad ogni Consiglio di Corso di Laurea o di Dipartimento e di mantenere gli studenti aggiornati su ogni realtiva novità.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+A differenza delle altre liste universitarie i DMI Insider sono una lista indipendente senza alcun schieramento politico, siamo principalmente un gruppo di studenti universitari che vuole contribuire attivamente alla rappresentanza locale.
+Ciò non ha mai escluso collaborazioni con terze associazioni o rappresentanti di altre liste universitarie ma ha preservato un'integrità che distingue i DMI Insider dalle altre associazioni. Anzi, molto spesso, ciò che svolgiamo internamente al DMI cerchiamo sempre di promuoverlo anche esternamente, mediante anche associazioni terze ma pur mantenendo una certa neutralità e distanza politica.
+
+Negli anni i DMI Insider sono cresciuti all'interno del DMI ed hanno anche raggiunto un livello di eterogeneità interna tra Informatici e Matematici e cercheremo sempre di mantenerla soprattutto ricoprendo con una certa proporzionalità le cariche politiche che devono rappresentare entrambi i Corsi di Laurea interni al Dipartimento.
