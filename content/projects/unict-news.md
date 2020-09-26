@@ -2,8 +2,7 @@
 title: "UNICT News"
 date: 2019-05-12T12:14:34+06:00
 image: "images/projects/item-3.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
+project_url : "http://188.213.170.165/list-telegram-channels/"
 categories: ["UNICT"]
 description: "This is meta description."
 draft: false
