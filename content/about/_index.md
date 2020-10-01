@@ -10,6 +10,6 @@ Il nome "DMI Insider" nasce dall'obiettivo principale di svolgere attività all'
 
 Il nostro obiettivo è migliorare il flusso di informazioni che intercorre tra docenti e studenti, tenendo sempre in considerazione delle segnalazioni e delle necessità di questi ultimi, comunicando tempestivamente ogni novità.
 
-Siamo un gruppo di studenti universitari che vuole contribuire attivamente alla rappresentanza nel proprio dipartimento. La nostra lista è indipendente e apartitica ma non esclude la possibilità di collaborare con associazioni e rappresentanti di altre liste universitarie, preservando sempre l'integrità che distingue i DMI Insider dalle altre liste. Proprio per questo promoviamo anche esternamente, con l'aiuto di associazioni terze, i progetti nati per il DMI.
+Siamo un gruppo di studenti universitari che vuole contribuire attivamente alla rappresentanza nel proprio dipartimento. La nostra lista è indipendente e apartitica ma non esclude la possibilità di collaborare con associazioni e rappresentanti di altre liste universitarie, preservando sempre l'integrità che distingue i DMI Insider dalle altre liste. Proprio per questo promuoviamo anche esternamente, con l'aiuto di associazioni terze, i progetti nati per il DMI.
 
 Negli anni siamo cresciuti, divenendo la realtà rappresentativa più importante del Dipartimento di Matematica ed Informatica, includendo le più diverse personalità legate dalle stesse finalità
