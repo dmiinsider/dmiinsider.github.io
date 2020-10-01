@@ -2,7 +2,6 @@
 title: "Med Bot"
 date: 2019-05-12T12:14:34+06:00
 image: "images/projects/med-bot.jpg"
-client: "John Doe"
 project_url : "https://telegram.me/medbot"
 categories: ["UNICT"]
 description: "This is meta description."
