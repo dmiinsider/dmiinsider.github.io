@@ -24,8 +24,8 @@
   <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
 
   {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `images/logo.svg` | absURL }} " type="image/x-icon">
-  <link rel="icon" href="{{ `images/logo.svg` | absURL }} " type="image/x-icon">
+  <link rel="shortcut icon" href="{{ site.Params.logo | absURL }}" type="image/x-icon">
+  <link rel="icon" href="{{ site.Params.logo | absURL }} " type="image/x-icon">
 
   {{ with site.Params.google_analytics_id }}
 	{{ "<!-- Global Site Tag (gtag.js) - Google Analytics -->" | safeHTML }}

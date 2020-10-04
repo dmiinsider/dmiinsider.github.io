@@ -2,7 +2,7 @@
 
 {{ partial "page-title.html" . }}
 
-<!-- portfolio -->
+<!-- project -->
 <section class="section">
   <div class="container">
     <div class="row">
@@ -11,15 +11,6 @@
       </div>
       <div class="col-lg-7 mb-5 mb-lg-0 align-self-center">
         <div class="row mx-0">
-          <div class="col-sm-6 mb-5">
-            <div class="project-meta">
-              <i class="ti-calendar"></i>
-              <div class="ml-3">
-                <h4>Data</h4>
-                <p>{{ .PublishDate.Format "Jan 02, 2006" }}</p>
-              </div>
-            </div>
-          </div>
           <div class="col-sm-6 mb-5">
             <div class="project-meta">
               <i class="ti-folder"></i>
@@ -48,6 +39,6 @@
     </div>
   </div>
 </section>
-<!-- /portfolio -->
+<!-- /project -->
 
 {{ end }}
