@@ -10,5 +10,5 @@ draft: false
 
 #### Med Bot
 
-Il MedBot è un progetto analogo al [DMI_Bot](https://t.me/dmi_bot), è stato realizzato per supportare gli studenti di Medicina affinchè possano facilmente ottenere diverse informazioni mediante Telegram e possano mettersi in contatto con i rappresentanti degli studenti di Medicina.
+Il MedBot è un progetto analogo al [DMI_Bot](https://t.me/dmi_bot), è stato realizzato in collaborazione di [Alessandro Bulgari](https://www.facebook.com/alessandro.bulgari) per supportare gli studenti di Medicina affinchè possano facilmente ottenere diverse informazioni mediante Telegram e possano mettersi in contatto con i rappresentanti degli studenti di Medicina.
 
