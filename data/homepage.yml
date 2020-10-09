@@ -55,7 +55,7 @@ service:
 projects:
   enable : true
   title : "Progetti"
-  item_show : 5
+  item_show : 9
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # blog

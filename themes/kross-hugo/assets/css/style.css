@@ -915,3 +915,18 @@ blockquote {
 .project-meta p{
   margin-bottom: 0;
 }
+
+.greyscale-effect {
+  filter: url(filters.svg#grayscale); /* Firefox 3.5+ */
+  filter: gray; /* IE5+ */
+  -webkit-filter: grayscale(1); /* Webkit Nightlies & Chrome Canary */
+}
+
+.greyscale-effect:hover {
+  filter: none;
+  -webkit-filter: grayscale(0);
+}
+
+.greyscale-effect, .greyscale-effect:hover {
+  transition: all .5s ease-in-out;
+}
