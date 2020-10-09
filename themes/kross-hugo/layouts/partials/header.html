@@ -2,7 +2,7 @@
   <nav class="navbar navbar-expand-lg navbar-dark">
     <a class="navbar-brand" href="{{ site.BaseURL }}">
       {{ if site.Params.logo }}
-      <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" width="100" height="100">
+      <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" style="width: 75px; height: 75px; border-radius: 4em; border: 2px solid white; position: absolute; top: -7px;">
       {{ else }}
       <h3 class="text-white font-tertiary">{{site.Title}}</h3>
       {{ end }}
