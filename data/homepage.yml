@@ -1,11 +1,15 @@
 # banner
 banner:
-  title : "Ciao! Noi siamo i <br> DMI Insider <br>"
+  title : "I DMI Insider<br>ti danno il benvenuto"
 
 # about
 about:
   enable : true
-  content : "Siamo un gruppo di studenti del Dipartimento di Matematica e Informatica dell'Università degli Studi di Catania. Da anni ci impegnamo per migliorare la vita all'interno del nostro dipartimento attraverso l'organizzazione di eventi, progetti e soprattutto rappresentanza."
+  content : "Siamo un gruppo di studenti del Dipartimento di Matematica e Informatica dell'Università di Catania.
+            Da anni ci impegnamo per migliorare la vita all'interno del nostro dipartimento 
+            fornendo agli studenti un organo di rappresentanza performante
+            ed organizzando per loro eventi e progetti al fine di favorire l'aggregazione ed incoraggiare
+            il libero scambio di idee"
   button:
     enable : true
     label : "Voglio saperne di più"
