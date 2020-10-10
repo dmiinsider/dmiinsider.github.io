@@ -14,7 +14,7 @@ Il non raggiungimento del QUORUM che ha caratterizzato il biennio 2014/2016 avev
 il dipartimento sprovvisto di organi di rappresentanza, una neccessità che non poteva più venire ignorata e che ci ha spinto a metterci in gioco.
 
 I bisogni degli studenti del DMI devono avere un ruolo centrale e non essere un dettaglio irrilevante
-del grande quadro politico universitario, questa l'idea alla base della nostra lista e che tutt'oggi ci appartiene, in accordo con il nome che abbiamo deciso di darle. 
+del grande quadro politico universitario, è questa l'idea alla base della nostra lista, che tutt'oggi ci caratterizza, in accordo con il nome che abbiamo deciso di darle. 
 
 Il nostro obiettivo è migliorare il flusso di informazioni che intercorre tra docenti e studenti, tenendo sempre in considerazione delle segnalazioni e delle necessità di questi ultimi, comunicando tempestivamente ogni novità. 
 
