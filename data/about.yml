@@ -33,6 +33,7 @@ team:
 
     - title : "Lemuel Puglisi"
       image : "images/team/lemuel-puglisi.jpg"
+      designation : "Rappresentante degli studenti in seno al Gruppo di Gestione AQ"
 
 onorari:
   enable: true
