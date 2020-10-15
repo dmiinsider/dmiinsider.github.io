@@ -2,7 +2,7 @@
 title: "DMI News"
 date: 2019-05-12T12:14:34+06:00
 image: "images/projects/dmi-news.jpg"
-project_url : "https://t.me/dminews"
+project_url : "https://telegram.me/dminews"
 categories: ["DMI"]
 description: "This is meta description."
 draft: false

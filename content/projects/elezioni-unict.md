@@ -1,28 +1,29 @@
 ---
 title: "Elezioni UNICT"
 date: 2019-05-12T12:14:34+06:00
-image: "images/projects/unict_bot_logo.png"
+image: "images/projects/UNICT-Elezioni.png"
 project_url : "https://unict-dmi.github.io/UNICT-Elezioni/"
 categories: ["UNICT"]
-description: "This is meta description."
+description: "Storico dei rusltati delle elezioni studentesche"
 draft: false
 ---
 
-#### Project Requirements
+#### UNICT Elezioni
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+Questo progetto è stato realizzato per fornire una visualizzazione immediata in ordine cronologico dei risultati delle elezioni universitarie.
 
-#### Project Details
+Attualmente è possibile visualizzare lo storico dei risultati delle elezioni dei seguenti organi istituzionali:
+- Dipartimento
+- Senato
+- Consiglio di Amministrazione
+- Nucleo di Valutazione
+- Comitato per lo Sport Universitario
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+I dati presenti si riferiscono alle elezioni dei seguenti bienni:
+- 2014-2016
+- 2016-2018
+- 2018-2020
+
+....il progetto è ancora in lavorazione...
+
+![Work in progress](https://herbrant.github.io/DMI-Insider-Website/images/projects/wip.png)
