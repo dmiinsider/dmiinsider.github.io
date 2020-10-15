@@ -935,3 +935,21 @@ blockquote {
 .opis-table tr td {
   padding: 10px;
 }
+
+.profile-member:hover div div.hidden-desc {
+  max-height: 100px;
+}
+.hidden-desc {
+  max-height: 0px;
+}
+.profile-member:hover div div.hidden-desc span {
+  z-index: 100;
+  visibility: visible;
+}
+.hidden-desc span {
+  z-index: 100;
+  visibility: hidden;
+}
+.profile-member:hover div div.hidden-desc, .hidden-desc {
+  transition: 1s ease;
+}
