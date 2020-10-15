@@ -1,8 +1,8 @@
 ---
-title: "UNICT News"
+title: "Elezioni UNICT"
 date: 2019-05-12T12:14:34+06:00
 image: "images/projects/unict_bot_logo.png"
-project_url : "http://188.213.170.165/list-telegram-channels/"
+project_url : "https://unict-dmi.github.io/UNICT-Elezioni/"
 categories: ["UNICT"]
 description: "This is meta description."
 draft: false
