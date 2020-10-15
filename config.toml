@@ -33,11 +33,6 @@ name = "Chi siamo"
 weight = 1
 
 [[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
-
-[[menu.main]]
 URL = "projects"
 name = "Progetti"
 weight = 3
