@@ -1,5 +1,5 @@
 ---
-title: "Elezioni UNICT"
+title: "UNICT Elezioni"
 date: 2019-05-12T12:14:34+06:00
 image: "images/projects/UNICT-Elezioni.png"
 project_url : "https://unict-dmi.github.io/UNICT-Elezioni/"
