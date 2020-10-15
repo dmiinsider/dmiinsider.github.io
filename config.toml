@@ -1,10 +1,11 @@
 # default configuration
-baseUrl = "./"
+baseUrl = "/DMI-Insider-Website/"
+canonifyURLs = false
 languageCode = "it"
 summaryLength = "10"
 theme = "kross-hugo"
 title = "DMI Insider"
-logo = "images/logo.svg"
+logo = "./images/logo.svg"
 
 # css plugins
 [[params.plugins.css]]
@@ -28,22 +29,22 @@ link = "plugins/shuffle/shuffle.min.js"
 
 # menu
 [[menu.main]]
-URL = "about"
+URL = "./about"
 name = "Chi siamo"
 weight = 1
 
 [[menu.main]]
-URL = "blog"
+URL = "./blog"
 name = "Blog"
 weight = 2
 
 [[menu.main]]
-URL = "projects"
+URL = "./projects"
 name = "Progetti"
 weight = 3
 
 [[menu.main]]
-URL = "contact"
+URL = "./contact"
 name = "Contatti"
 weight = 4
 
@@ -51,7 +52,7 @@ weight = 4
 # default parameters
 [params]
 home = "Home"
-logo = "images/logo.svg"
+logo = "./images/logo.svg"
 # theme color
 theme_color = "#399ff3"
 # copyright
@@ -61,7 +62,7 @@ copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothe
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+preloader = "./images/preloader.gif" # use png, jpg, svg or gif format
 
 # social site
 [[params.social]]

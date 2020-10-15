@@ -13,7 +13,7 @@ jobs:
           hugo-version: "0.75.1"
 
       - name: Build
-        run: hugo --minify --baseURL https://herbrant.github.io/DMI-Insider-Website
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
