@@ -1,5 +1,5 @@
 # default configuration
-baseUrl = "/DMI-Insider-Website/"
+baseUrl = "./"
 canonifyURLs = false
 languageCode = "it"
 summaryLength = "10"
