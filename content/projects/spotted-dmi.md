@@ -2,7 +2,7 @@
 title: "Spotted DMI"
 date: 2019-05-12T12:14:34+06:00
 image: "images/projects/spotted-dmi.jpg"
-project_url : "https://t.me/Spotted_DMI"
+project_url : "https://telegram.me/Spotted_DMI"
 categories: ["DMI"]
 description: "This is meta description."
 draft: false

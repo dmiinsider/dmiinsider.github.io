@@ -15,26 +15,6 @@ about:
     label : "Voglio saperne di più"
     URL : "about"
 
-# education
-education:
-  enable : true
-  title : "La nostra storia"
-  item:
-    - title : "Fondazione DMI Insider"
-      year : "2016"
-      
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
-      
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
-
 # service
 service:
   enable : true
