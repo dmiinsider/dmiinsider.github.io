@@ -20,15 +20,15 @@ service:
   enable : true
   title : "Servizi"
   item:
-    - title : "UI Design"
-      icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Progetti"
+      icon : "ti-linux"
+      content : "Contribuiamo e sosteniamo attivamente progetti Open Source che possano fornire servizi e strumenti atti a migliorare l'interazione degli studenti con i singoli dipartimenti e con l'ateneo tutto."
       highlighted : false
 
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : true
+    - title : "Rappresentanza"
+      icon : "ti-heart"
+      content : "Ci contraddistinguono l'impegno quotidiano e l'ambizione. Ascoltiamo gli studenti e reattivamente provvediamo a soddisfare le loro esigenze. Vogliamo essere una componente attiva  all'interno del vostro percorso di studi e di crescita personale."
+      highlighted : false
 
     - title : "Interaction Design"
       icon : "ti-panel"
