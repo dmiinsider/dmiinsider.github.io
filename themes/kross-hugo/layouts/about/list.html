@@ -48,11 +48,14 @@
       </div>
       {{ range .team_member }}
       <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
-        <div class="card text-center">
+        <div class="card text-center profile-member">
           <img src="{{ .image | absURL }}" class="card-img-top greyscale-effect">
           <div class="card-body">
             <h4 class="card-title">{{.title }}</h4>
             <p class="text-light font-secondary">{{.designation }}</p>
+            <div class="hidden-desc">
+              <span class="text-light font-secondary">{{.designationLong }}</span>
+            </div>
           </div>
         </div>
       </div>

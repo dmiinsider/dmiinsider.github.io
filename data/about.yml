@@ -6,30 +6,37 @@ team:
     - title : "Lorenzo Catania"
       image : "images/team/lorenzo-catania.jpg"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
+      designationLong : ""
       
     - title : "Davide Carnemolla"
       image : "images/team/davide-carnemolla.jpg"
       designation : "Rappresentante Commissione Paritetica"
+      designationLong : ""
     
     - title : "Alessio Piazza"
       image : "images/team/alessio-piazza.jpg"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
+      designationLong : ""
     
     - title : "Rita Sciuto"
       image : "images/team/rita-sciuto.jpg"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
+      designationLong : ""
 
     - title : "Silvestro Zitelli"
       image : "images/team/silvestro-zitelli.jpg"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
+      designationLong : ""
     
     - title : "Luisa Polignano"
       image : "images/team/luisa-polignano.jpg"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
+      designationLong : ""
     
     - title : "Valentina Catania"
       image : "images/team/valentina-catania.jpg"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
+      designationLong : ""
 
     - title : "Lemuel Puglisi"
       image : "images/team/lemuel-puglisi.jpg"
@@ -37,9 +44,11 @@ team:
     
     - title : "Martina Parlavecchio"
       image : "images/team/martina-parlavecchio.jpg"
+      designationLong : ""
     
     - title : "Filippo Campo"
       image : "images/team/filippo-campo.jpg"
+      designationLong : ""
 
 onorari:
   enable: true
