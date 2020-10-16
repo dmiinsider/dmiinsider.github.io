@@ -18,7 +18,7 @@ about:
 # service
 service:
   enable : true
-  title : "Servizi"
+  title : "Cosa facciamo"
   item:
     - title : "Progetti"
       icon : "ti-github"
