@@ -34,6 +34,12 @@ team:
     - title : "Lemuel Puglisi"
       image : "images/team/lemuel-puglisi.jpg"
       designation : "Rappresentante degli studenti in seno al Gruppo di Gestione AQ"
+    
+    - title : "Martina Parlavecchio"
+      image : "images/team/martina-parlavecchio.jpg"
+    
+    - title : "Filippo Campo"
+      image : "images/team/filippo-campo.jpg"
 
 onorari:
   enable: true
