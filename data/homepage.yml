@@ -21,7 +21,7 @@ service:
   title : "Servizi"
   item:
     - title : "Progetti"
-      icon : "ti-linux"
+      icon : "ti-github"
       content : "Contribuiamo e sosteniamo attivamente progetti Open Source che possano fornire servizi e strumenti atti a migliorare l'interazione degli studenti con i singoli dipartimenti e con l'ateneo tutto."
       highlighted : false
 
@@ -30,9 +30,9 @@ service:
       content : "Ci contraddistinguono l'impegno quotidiano e l'ambizione. Ascoltiamo gli studenti e reattivamente provvediamo a soddisfare le loro esigenze. Vogliamo essere una componente attiva  all'interno del vostro percorso di studi e di crescita personale."
       highlighted : false
 
-    - title : "Interaction Design"
-      icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Eventi"
+      icon : "ti-comments"
+      content : "Incoraggiamo l'aggregazione, lo scambio di idee e la diffusione di nuove tecnologie organizzando eventi e workshop, coinvolgendo associazioni locali ed esperti del settore."
       highlighted : false
 
 # portfolio
