@@ -931,6 +931,7 @@ blockquote {
 
 .opis-table {
   margin: 0 auto;
+  max-width: 500px;
 }
 .opis-table tr td {
   padding: 10px;
