@@ -54,6 +54,10 @@ team:
       image : "images/team/graziano-digrande.jpg"
       designationLong : ""
 
+    - title : "Ernesto Casablanca"
+      image : "images/team/ernesto-casablanca.jpg"
+      designationLong : ""
+
 onorari:
   enable: true
   title: "Membri onorari"
