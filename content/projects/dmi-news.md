@@ -4,7 +4,7 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/projects/dmi-news.jpg"
 project_url : "https://telegram.me/dminews"
 categories: ["DMI"]
-description: "This is meta description."
+description: "Notizie, Eventi, Avvisi, Esami, tutte le informazioni relative al DMI in un canale Telegram"
 draft: false
 ---
 

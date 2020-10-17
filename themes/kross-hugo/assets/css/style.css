@@ -698,10 +698,10 @@ textarea.form-control {
   bottom: -50px
 }
 
-.footer-section {
+/* .footer-section {
   padding-top: 200px
 }
-
+ */
 .section-on-footer {
   margin-bottom: -250px
 }
@@ -931,6 +931,7 @@ blockquote {
 
 .opis-table {
   margin: 0 auto;
+  max-width: 500px;
 }
 .opis-table tr td {
   padding: 10px;
