@@ -50,6 +50,10 @@ team:
       image : "images/team/filippo-campo.jpg"
       designationLong : ""
 
+    - title : "Graziano Di Grande"
+      image : "images/team/graziano-digrande.jpg"
+      designationLong : ""
+
 onorari:
   enable: true
   title: "Membri onorari"
