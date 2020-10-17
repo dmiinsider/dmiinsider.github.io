@@ -57,6 +57,12 @@ team:
     - title : "Ernesto Casablanca"
       image : "images/team/ernesto-casablanca.jpg"
       designationLong : ""
+    - title : "Luigi Seminara"
+      image : "images/team/luigi-seminara.jpg"
+      designationLong : ""
+    - title : "Gabriele Sanguedolce"
+      image : "images/team/gabriele-sanguedolce.jpg"
+      designationLong : ""
 
 onorari:
   enable: true
