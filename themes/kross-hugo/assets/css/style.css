@@ -959,3 +959,11 @@ blockquote {
   background-color: rgb(255, 255, 255);
   font-family: playfair display,serif;
 }
+.project-img {
+  max-width: 300px;
+}
+.bot-gif {
+  height: 500px;
+  margin: 0 auto;
+  display: block;
+}
