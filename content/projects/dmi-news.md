@@ -8,22 +8,8 @@ description: "Notizie, eventi, avvisi ed esami. Tutte le informazioni relative a
 draft: false
 ---
 
-#### Project Requirements
+# DMI News
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+DMI News è un canale Telegram in cui vengono ripubblicati tutti gli annunci inseriti sul sito del DMI. Essi possono riguardare i corsi di laurea, il dipartimento o anche le singole materie. Mantenuto in funzione dall'UNICT Bot, realizzato dagli studenti di Informatica, è il capostipite di una serie di canali lanciati poi per ogni dipartimento dell'ateneo.
 
-
-#### Project Details
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+Contributori: Pierpaolo Pecoraio, Stefano Borzì, Davide Carnemolla, Lorenzo Catania.
