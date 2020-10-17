@@ -1,13 +1,13 @@
 ---
-title: "Med Bot"
+title: "MedBot"
 date: 2019-05-12T12:14:34+06:00
 image: "images/projects/med-bot.jpg"
 project_url : "https://telegram.me/medbot"
 categories: ["UNICT"]
-description: "Telegram bot per supportare gli studenti di Medicina"
+description: "Il nostro supporto agli studenti di Medicina e Chirurgia"
 draft: false
 ---
 
-#### Med Bot
+#### MedBot
 
-Il MedBot è un progetto analogo al [DMI_Bot](https://t.me/dmi_bot), è stato realizzato in collaborazione di [Alessandro Bulgari](https://www.facebook.com/alessandro.bulgari) per supportare gli studenti di Medicina affinché possano facilmente ottenere diverse informazioni mediante Telegram e possano mettersi in contatto con i rappresentanti degli studenti di Medicina.
+Progetto analogo al [DMI Bot](https://t.me/dmi_bot) ma destinato agli studenti di Medicina. Realizzato in collaborazione con [Alessandro Bulgari](https://www.facebook.com/alessandro.bulgari), MedBot consente agli studenti di reperire facilmente informazioni inerenti la propria facoltà e mettersi in contatto con i propri rappresentanti.
