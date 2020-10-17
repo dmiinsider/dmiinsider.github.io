@@ -954,3 +954,8 @@ blockquote {
 .profile-member:hover div div.hidden-desc, .hidden-desc {
   transition: 1s ease;
 }
+
+.project-desc {
+  background-color: rgb(255, 255, 255);
+  font-family: playfair display,serif;
+}
