@@ -1,6 +1,6 @@
 # DMI-Insider-Website
 
-Sito ufficiale dei [DMI Insider](https://herbrant.github.io/DMI-Insider-Website)
+Sito ufficiale dei [DMI Insider](https://dmiinsider.github.io)
 
 ## Sviluppo
 
@@ -9,7 +9,7 @@ Il sito web è stato costruito con [Hugo](https://gohugo.io/), un framework per 
 Prima di tutto clona il progetto:
 
 ``` sh
-git clone https://github.com/Herbrant/DMI-Insider-Website.git
+git clone https://github.com/dmiinsider/dmiinsider.github.io
 ```
 
 Per lanciare il server di Hugo utilizzando Docker:
