@@ -69,6 +69,10 @@ team:
     - title : "Martina Chiarandà"
       image : ""
       designationLong : ""
+    
+    - title : "Giuseppe Mazzara"
+      image : "images/team/giuseppe-mazzara.jpg"
+      designationLong : ""
 onorari:
   enable: true
   title: "Membri onorari"
