@@ -1,5 +1,46 @@
 {{ define "main" }}
 
+<script>
+  function getDiff(endDate) {
+    const now = new Date().getTime();
+    const distance = new Date(endDate).getTime() - now;
+    const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    if (distance > 0) {
+      const DAYS = days == '0' ? '' : days + ' d ';
+      const HOURS = hours == '0' ? '' : hours + ' h ';
+      const MINUTES = minutes == '0' ? '' : minutes + ' m ';
+      const SECONDS = seconds == '0' ? '' : seconds + ' s ';
+      return DAYS + HOURS  + MINUTES + SECONDS;
+    }
+
+    return 'EXPIRED';
+  }
+
+  function countdown(endDate, inputId) {
+    const t = setInterval(() => {
+      let diff = getDiff(endDate);
+
+      if (diff === 'EXPIRED') {
+        diff = '';
+        document.getElementById(`hidden-${inputId}`).style.display = 'block';
+        document.getElementById(`title-${inputId}`).style.display = 'block';
+        document.getElementById(`designation-${inputId}`).style.display = 'block';
+        document.getElementById(`designation-long-${inputId}`).style.display = 'block';
+        document.getElementById(`incognito-${inputId}`).style.display = 'none';
+        document.getElementById(`countdown-${inputId}`).style.display = 'none';
+        clearInterval(t);
+      } else {
+        document.getElementById(`countdown-${inputId}`).innerHTML = diff;
+      }
+    }, 1000);
+  }
+  let datetime;
+</script>
+
 <!-- page title -->
 <section class="page-title-alt bg-primary position-relative overflow-hidden">
   <div class="container">
@@ -49,13 +90,32 @@
       {{ range .team_member }}
       <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
         <div class="card text-center profile-member">
-          <img src="{{ .image | absURL }}" class="card-img-top greyscale-effect">
+          <div id="hidden-{{.id}}" style="display: none">
+            <img src="{{ .image | absURL }}" class="card-img-top greyscale-effect">
+          </div>
+          <div id="incognito-{{.id}}">
+            <img src="{{ .imageinc | absURL }}" class="card-img-top greyscale-effect">
+          </div>
           <div class="card-body">
-            <h4 class="card-title">{{.title }}</h4>
-            <p class="text-light font-secondary">{{.designation }}</p>
+            <h4 class="card-title" id="title-{{.id}}" style="display: none;">{{.title }}</h4>
+            <p class="text-light font-secondary" id="designation-{{.id}}" style="display: none;">{{.designation }}</p>
+            <div id="countdown-{{.id}}" style="text-shadow: 1px 1px 1px #000000; font-size: 30px;"></div>
             <div class="hidden-desc">
-              <span class="text-light font-secondary">{{.designationLong }}</span>
+              <span class="text-light font-secondary" id="designation-long-{{.id}}" style="display: none;">{{.designationLong }}</span>
             </div>
+            <script>
+              datetime = '{{.time}}';
+              if (!!datetime) {
+                countdown(datetime, '{{.id}}');
+              } else {
+                document.getElementById('hidden-{{.id}}').style.display = 'block';
+                document.getElementById('title-{{.id}}').style.display = 'block';
+                document.getElementById(`designation-${inputId}`).style.display = 'block';
+                document.getElementById(`designation-long-${inputId}`).style.display = 'block';
+                document.getElementById('incognito-{{.id}}').style.display = 'none';
+                document.getElementById('countdown-{{.id}}').style.display = 'none';
+              }
+            </script>          
           </div>
         </div>
       </div>
@@ -79,11 +139,11 @@
       {{ range .team_member }}
       <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
         <div class="card text-center">
-          <img src="{{ .image | absURL }}" class="card-img-top greyscale-effect">
           <div class="card-body">
             <h4 class="card-title">{{.title }}</h4>
             <p class="text-light font-secondary">{{.designation }}</p>
           </div>
+          <img src="{{ .image | absURL }}" class="card-img-top greyscale-effect">
         </div>
       </div>
       {{ end }}
