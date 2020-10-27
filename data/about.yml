@@ -130,4 +130,7 @@ onorari:
     - title : "Rita Sciuto"
       image : "images/team/rita-sciuto.jpg"
       id: "rs"
+    - title : "Luca Steccanella"
+      image : "images/team/luca-steccanella.jpg"
+      id: "lus"
     
