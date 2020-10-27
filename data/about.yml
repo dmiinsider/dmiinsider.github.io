@@ -20,12 +20,6 @@ team:
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
       designationLong : ""
       id: "ap"
-    
-    - title : "Rita Sciuto"
-      image : "images/team/rita-sciuto.jpg"
-      designation : "Rappresentante Dipartimento di Matematica e Informatica"
-      designationLong : ""
-      id: "rs"
 
     - title : "Silvestro Zitelli"
       image : "images/team/silvestro-zitelli.jpg"
@@ -112,9 +106,9 @@ team:
       image : "images/team/stefano-bognanni.jpg"
       designationLong : ""
 
-onorari:
+fondatori:
   enable: true
-  title: "Membri onorari"
+  title: "Fondatori"
   team_member:
     - title : "Vinzenzo Aliperti"
       image : "images/team/vincenzo-aliperti.jpg"
@@ -128,3 +122,12 @@ onorari:
       image : "images/team/stefano-borzi.jpg"
       id: "sb"
       time: "Oct 23, 2020 19:21:00"
+
+onorari:
+  enable: true
+  title: "Membri onorari"
+  team_member:
+    - title : "Rita Sciuto"
+      image : "images/team/rita-sciuto.jpg"
+      id: "rs"
+    
