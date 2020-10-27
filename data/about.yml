@@ -108,6 +108,10 @@ team:
       id: "gm"
       time: "Nov 24, 2020 16:00"
 
+    - title : "Stefano Bognanni"
+      image : "images/team/stefano-bognanni.jpg"
+      designationLong : ""
+
 onorari:
   enable: true
   title: "Membri onorari"
