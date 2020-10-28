@@ -133,4 +133,7 @@ onorari:
     - title : "Luca Steccanella"
       image : "images/team/luca-steccanella.jpg"
       id: "lus"
+    - title : "Valentino Merlino"
+      image : "images/team/valentino-merlino.jpg"
+      id : "vm"
     
