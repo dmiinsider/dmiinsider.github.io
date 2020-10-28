@@ -104,7 +104,10 @@ team:
 
     - title : "Stefano Bognanni"
       image : "images/team/stefano-bognanni.jpg"
+      imageinc : "images/team/stefano-bognanni-inc.png"
       designationLong : ""
+      id: "stb"
+      time: "Nov 27, 2020 16:00"
 
 fondatori:
   enable: true
