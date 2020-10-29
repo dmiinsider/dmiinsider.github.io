@@ -139,4 +139,7 @@ onorari:
     - title : "Valentino Merlino"
       image : "images/team/valentino-merlino.jpg"
       id : "vm"
+    - title : "Salvo Marino"
+      image : "images/team/salvo-marino.jpg"
+      id : "sm"
     
