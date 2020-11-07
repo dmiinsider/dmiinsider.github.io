@@ -49,7 +49,7 @@ weight = 4
 home = "Home"
 logo = "images/logo.svg"
 # theme color
-theme_color = "#399ff3"
+theme_color = "#2a3495"
 # copyright
 copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 
