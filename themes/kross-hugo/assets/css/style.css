@@ -12,6 +12,13 @@ VERSION: Versoin Number
   font-display: swap
 }
 
+@font-face {
+  font-family: CasanovaScotia, Casanova Scotia;
+  src: url(../fonts/CasanovaScotia-Xm0K.ttf) format("ttf");
+  font-style: normal;
+  font-display: swap
+}
+
 body {
   line-height: 1.2;
   font-family: roboto, sans-serif;
