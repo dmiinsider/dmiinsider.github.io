@@ -12,15 +12,6 @@ VERSION: Versoin Number
   font-display: swap
 }
 
-@font-face
-{
-  font-family: 'CasanovaScotia';
-  src: url('../fonts/Casanova Scotia.eot'),
-  url('../fonts/Casanova Scotia.eot?#') format('embedded-opentype'),
-  url('../fonts/Casanova Scotia.ttf') format('truetype'),
-  url('../fonts/Casanova Scotia.woff') format('woff');
-}
-
 body {
   line-height: 1.2;
   font-family: roboto, sans-serif;
