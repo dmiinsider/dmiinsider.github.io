@@ -565,6 +565,55 @@ textarea.form-control {
   right: 55px;
   bottom: 40px;
 }
+.stars {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 80px;
+  left: 15%;
+}
+.constellation {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 350px;
+  left: 5%;
+}
+.orbit-1 {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 300px;
+  left: 5%;
+}
+.orbit-2 {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 550px;
+  left: 35%;
+}
+.meteorite {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 150px;
+  left: 35px;
+}
+.orbit-galaxy {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 150px;
+  left: 35px;
+}
+.planet-x {
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: 450px;
+  left: 130px;
+}
 
 .layer-bg {
   position: absolute;
