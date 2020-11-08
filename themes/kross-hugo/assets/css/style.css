@@ -14,11 +14,11 @@ VERSION: Versoin Number
 
 @font-face
 {
-  font-family: 'Casanova Scotia';
+  font-family: 'CasanovaScotia';
   src: url('../fonts/Casanova Scotia.eot'),
   url('../fonts/Casanova Scotia.eot?#') format('embedded-opentype'),
-  url('../fonts/Casanova Scotia.woff') format('woff'),
-  url('../fonts/Casanova Scotia.ttf') format('truetype');
+  url('../fonts/Casanova Scotia.ttf') format('truetype'),
+  url('../fonts/Casanova Scotia.woff') format('woff');
 }
 
 body {
