@@ -12,11 +12,13 @@ VERSION: Versoin Number
   font-display: swap
 }
 
-@font-face {
-  font-family: CasanovaScotia, Casanova Scotia;
-  src: url(../fonts/CasanovaScotia-Xm0K.ttf) format("ttf");
-  font-style: normal;
-  font-display: swap
+@font-face
+{
+  font-family: 'Casanova Scotia';
+  src: url('../fonts/Casanova Scotia.eot'),
+  url('../fonts/Casanova Scotia.eot?#') format('embedded-opentype'),
+  url('../fonts/Casanova Scotia.woff') format('woff'),
+  url('../fonts/Casanova Scotia.ttf') format('truetype');
 }
 
 body {
@@ -24,7 +26,8 @@ body {
   font-family: roboto, sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
-  color: #4c4c4c
+  color: #4c4c4c;
+  font-family: 'Casanova Scotia'
 }
 
 p {
@@ -805,6 +808,7 @@ blockquote {
 }
 
 .page-title-alt .bg-shape-4 {
+  height: 200px;
   position: absolute;
   left: 100px;
   bottom: 100px
