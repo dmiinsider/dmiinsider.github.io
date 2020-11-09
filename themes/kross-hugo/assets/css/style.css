@@ -552,9 +552,11 @@ textarea.form-control {
   left: 15%;
 }
 .constellation {
+  height: 75px;
+  width: 75px;
   position: absolute;
   left: 5%;
-  bottom: 5px;
+  bottom: 2px;
 }
 .orbit-1 {
   position: absolute;
@@ -596,22 +598,11 @@ textarea.form-control {
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-  .planet-1, .planet-about, .planet-home, .stars, .constellation, .orbit-1, .orbit-2, .asteroids, .ufo, .ufo-about {
+  .planet-1, .planet-about, .planet-home, .stars, .orbit-1, .orbit-2, .asteroids, .ufo, .ufo-about {
     width: 150px;
     height: 150px;
   }
 }
-
-
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-  .planet-1, .planet-about, .planet-home, .stars, .constellation, .orbit-1, .orbit-2, .asteroids, .ufo, .ufo-about {
-    width: 150px;
-    height: 150px;
-  }
-}
-
 
 .layer-bg {
   position: absolute;
