@@ -544,7 +544,7 @@ textarea.form-control {
 .planet-1, .planet-about, .planet-home {
   position: absolute;
   right: 55px;
-  bottom: 40px;
+  bottom: 2%;
 }
 .stars {
   position: absolute;
