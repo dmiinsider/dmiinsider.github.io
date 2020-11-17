@@ -1018,6 +1018,7 @@ blockquote {
 }
 .hidden-desc {
   max-height: 0px;
+  opacity: 0;
 }
 .profile-member:hover div div.hidden-desc span {
   z-index: 100;
@@ -1028,7 +1029,14 @@ blockquote {
   visibility: hidden;
 }
 .profile-member:hover div div.hidden-desc, .hidden-desc {
-  transition: 1s ease;
+  transition: 2s ease;
+}
+.profile-member:hover div div.hidden-desc {
+  opacity: 1;
+  max-height: 250px;
+}
+.hidden-desc span {
+  transition: 2s ease;
 }
 
 .project-desc {
