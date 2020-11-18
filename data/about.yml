@@ -50,7 +50,7 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
     
     - title : "Martina Parlavecchio"
       image : "images/team/martina-parlavecchio.jpg"
-      imageinc : "images/team/martina-parlavecchio-inc.png"
+      # imageinc : "images/team/martina-parlavecchio-inc.png"
       designationLong : "Entrata a fare parte del team solo negli ultimi mesi, Martina ha curato l'aspetto più social del nostro collettivo, revisionando i contenuti che vi proponiamo abitualmente sui social e qui sul nostro sito. Studentessa triennale di informatica e appassionata di internet security, sostiene con passione il movimento per il software libero."
       id: "mp"
       time: "Nov 18, 2020 16:00"
