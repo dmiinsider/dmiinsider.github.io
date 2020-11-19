@@ -111,6 +111,13 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
       id: "stb"
       time: "Dec 12, 2020 16:00"
 
+    - title : "Stefano Origlio"
+      image : "images/team/stefano-origlio.jpg"
+      imageinc : "images/team/stefano-origlio-inc.png"
+      designationLong : ""
+      id: "so"
+      time: "Dec 15, 2020 16:00"
+
 fondatori:
   enable: true
   title: "Fondatori"
