@@ -57,8 +57,8 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
     
     - title : "Filippo Campo"
       image : "images/team/filippo-campo.jpg"
-      imageinc : "images/team/filippo-campo-inc.png"
-      designationLong : ""
+      # imageinc : "images/team/filippo-campo-inc.png"
+      designationLong : "Studente di informatica triennale ed appassionato di digital forensics e intelligenza artificiale, Filippo si impegna quotidianamente per essere di supporto agli studenti. Curioso e sempre pronto ad aiutare il prossimo, negli ultimi mesi ha reso ancora più reattiva l'interazione che il nostro collettivo ha con gli studenti del dipartimento."
       id: "fc"
       time: "Nov 21, 2020 16:00"
 
