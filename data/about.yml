@@ -64,22 +64,22 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
 
     - title : "Graziano Di Grande"
       image : "images/team/graziano-digrande.jpg"
-      imageinc : "images/team/graziano-digrande-inc.png"
-      designationLong : ""
+      # imageinc : "images/team/graziano-digrande-inc.png"
+      designationLong : "Entrato a far parte dei DMI Insider negli ultimi mesi, Graziano è uno studente triennale di informatica, appassionato di data science e sostenitore del movimento open source. Ha contribuito attivamente al progetto UNICT-ELezioni, curandone il front-end."
       id: "gdg"
       time: "Nov 25, 2020 16:00"
 
     - title : "Ernesto Casablanca"
       image : "images/team/ernesto-casablanca.jpg"
-      imageinc : "images/team/ernesto-casablanca-inc.png"
-      designationLong : ""
+      # imageinc : "images/team/ernesto-casablanca-inc.png"
+      designationLong : "Entrato a far parte degli Insiders solo negli ultimi mesi, Ernesto è stato sin da subito un membro attivo del nostro collettivo. Studente triennale di informatica, appassionato dell'informatica a tutto tondo e affascinato da suo rigore matematico, a lui si deve il radicale refactoring di Spotted DMI bot. Ha inoltre contribuito al DMI bot e ad allo sviluppo di alcuni bot interni che utilizziamo per fornirvi informazioni in maniera tempestiva."
       id: "ec"
       time: "Nov 27, 2020 16:00"
     
     - title : "Luigi Seminara"
       image : "images/team/luigi-seminara.jpg"
-      imageinc : "images/team/luigi-seminara-inc.png"
-      designationLong : ""
+      # imageinc : "images/team/luigi-seminara-inc.png"
+      designationLong : "Luigi è uno studente di informata triennale appassionato di machine learning. Sempre pronto ad aiutare gli studenti in difficoltà, ha contribuito all'acquisizione dei dati nel progetto UNICT-Elezioni."
       id: "ls"
       time: "Nov 30, 2020 16:00"
     
