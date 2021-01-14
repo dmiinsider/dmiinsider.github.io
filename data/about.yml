@@ -117,6 +117,9 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
       designationLong : ""
       id: "so"
       time: "Dec 15, 2020 16:00"
+    - title : "Chiara Anastasi"
+      image : "images/team/chiara-anastasi.jpg"
+      designationLong : ""
 
 fondatori:
   enable: true
