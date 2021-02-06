@@ -15,7 +15,7 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
       designation : "Rappresentante Commissione Paritetica"
       designationLong : "Studente triennale di informatica, anche Davide Carnemolla ha dato un enorme contributo al nostro dipartimento. Ricordiamo il suo impegno come rappresentante di paritetica e lo ringraziamo per l'enorme lavoro svolto per la creazione del nostro primo sito web. Davide è inoltre un fiero sostenitore del movimento open source e un amante del mondo GNU/Linux."
       id: "dc"
-    
+
     - title : "Alessio Piazza"
       image : "images/team/alessio-piazza.jpg"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
@@ -27,13 +27,13 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
       designationLong : "Silvestro Zitelli è uno tra i primi studenti di Matematica entrato nei DMI Insider. Attualmente rappresentante nella commissione paritetica del dipartimento, è appassionato della teoria matematica, in particolare dei suoi fondamenti."
       id: "sz"
-    
+
     - title : "Luisa Polignano"
       image : "images/team/luisa-polignano.jpg"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
       designationLong : "Entrata nel team da circa un anno, Luisa Polignano è una studentessa triennale di Matematica. Particolarmente interessata alla fisica matematica, ricopre oggi il ruolo di rappresentante del corso di laurea."
       id: "lp"
-    
+
     - title : "Valentina Catania"
       image : "images/team/valentina-catania.jpg"
       designation : "Rappresentante Dipartimento di Matematica e Informatica"
@@ -47,14 +47,14 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
       designationLong : "Appassionato di data science e software engineering, Lemuel è entrato a far parte del nostro team appena un anno fa ma il suo impegno non è passato inosservato. Rappresentante in seno al gruppo AQ, a lui si deve gran parte del backend attuale del progetto OPIS Manager (di cui trovate maggiori informazioni sul nostro sito)."
       id: "lep"
       time: "Nov 15, 2020 16:00"
-    
+
     - title : "Martina Parlavecchio"
       image : "images/team/martina-parlavecchio.jpg"
       # imageinc : "images/team/martina-parlavecchio-inc.png"
       designationLong : "Entrata a fare parte del team solo negli ultimi mesi, Martina ha curato l'aspetto più social del nostro collettivo, revisionando i contenuti che vi proponiamo abitualmente sui social e qui sul nostro sito. Studentessa triennale di informatica e appassionata di internet security, sostiene con passione il movimento per il software libero."
       id: "mp"
       time: "Nov 18, 2020 16:00"
-    
+
     - title : "Filippo Campo"
       image : "images/team/filippo-campo.jpg"
       # imageinc : "images/team/filippo-campo-inc.png"
@@ -75,45 +75,45 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
       designationLong : "Entrato a far parte degli Insiders solo negli ultimi mesi, Ernesto è stato sin da subito un membro attivo del nostro collettivo. Studente triennale di informatica, appassionato dell'informatica a tutto tondo e affascinato da suo rigore matematico, a lui si deve il radicale refactoring di Spotted DMI bot. Ha inoltre contribuito al DMI bot e ad allo sviluppo di alcuni bot interni che utilizziamo per fornirvi informazioni in maniera tempestiva."
       id: "ec"
       time: "Nov 27, 2020 16:00"
-    
+
     - title : "Luigi Seminara"
       image : "images/team/luigi-seminara.jpg"
       # imageinc : "images/team/luigi-seminara-inc.png"
       designationLong : "Luigi è uno studente di informatica triennale appassionato di machine learning. Sempre pronto ad aiutare gli studenti in difficoltà, ha contribuito all'acquisizione dei dati nel progetto UNICT-Elezioni."
       id: "ls"
       time: "Nov 30, 2020 16:00"
-    
+
     - title : "Gabriele Sanguedolce"
       image : "images/team/gabriele-sanguedolce.jpg"
-      imageinc : "images/team/gabriele-sanguedolce-inc.png"
+      # imageinc : "images/team/gabriele-sanguedolce-inc.png"
       designationLong : "Studente triennale di informatica appassionato di internet security e machine learning, Gabriele è entrato a far parte dei DMI Insider appena un anno fa. Si è reso fin da subito disponibile per diverse attività all'interno del nostro team."
       id: "gs"
       time: "Dec 3, 2020 16:00"
-    
+
     - title : "Martina Chiarandà"
       image : "images/team/martina-chiaranda.jpg"
-      imageinc : "images/team/martina-chiaranda-inc.png"
+      # imageinc : "images/team/martina-chiaranda-inc.png"
       designationLong : ""
       id: "mc"
       time: "Dec 6, 2020 16:00"
-    
+
     - title : "Giuseppe Mazzara"
       image : "images/team/giuseppe-mazzara.jpg"
-      imageinc : "images/team/giuseppe-mazzara-inc.png"
+      # imageinc : "images/team/giuseppe-mazzara-inc.png"
       designationLong : ""
       id: "gm"
       time: "Dec 9, 2020 16:00"
 
     - title : "Stefano Bognanni"
       image : "images/team/stefano-bognanni.jpg"
-      imageinc : "images/team/stefano-bognanni-inc.png"
+      # imageinc : "images/team/stefano-bognanni-inc.png"
       designationLong : "Appassionato di cyber security, crittografia e machine learning, Stefano è uno studente di informatica magistrale. Supporta attivamente gli altri studenti ed è sempre disponibile ad aiutarli in caso di necessità."
       id: "stb"
       time: "Dec 12, 2020 16:00"
 
     - title : "Stefano Origlio"
       image : "images/team/stefano-origlio.jpg"
-      imageinc : "images/team/stefano-origlio-inc.png"
+      # imageinc : "images/team/stefano-origlio-inc.png"
       designationLong : "Grande appassionato di sicurezza informatica e computer forensics, Stefano è uno studente di informatica triennale. Recente acquisto per il nostro team, non ha esitato a dare attivamente il suo contributo ad uno dei nostri progetti storici, il DMIBot."
       id: "so"
       time: "Dec 15, 2020 16:00"
@@ -158,4 +158,4 @@ onorari:
     - title : "Salvo Marino"
       image : "images/team/salvo-marino.jpg"
       id : "sm"
-    
+
