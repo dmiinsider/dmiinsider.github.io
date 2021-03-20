@@ -90,13 +90,6 @@ Studente magistrale di informatica e appassionato di sviluppo videogames, in que
       id: "gs"
       time: "Dec 3, 2020 16:00"
 
-    - title : "Martina Chiarandà"
-      image : "images/team/martina-chiaranda.jpg"
-      # imageinc : "images/team/martina-chiaranda-inc.png"
-      designationLong : ""
-      id: "mc"
-      time: "Dec 6, 2020 16:00"
-
     - title : "Giuseppe Mazzara"
       image : "images/team/giuseppe-mazzara.jpg"
       # imageinc : "images/team/giuseppe-mazzara-inc.png"
